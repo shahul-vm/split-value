@@ -1,0 +1,15 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+.row label, .row button {
+    font-size: 14px;
+    font-family: Arial;
+    font-weight: bold;
+}
+.row input, .row button {
+    padding: 10px;
+    background: none;
+}
